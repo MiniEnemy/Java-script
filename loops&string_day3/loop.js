@@ -9,9 +9,3 @@
 //     sum=i+sum;
 // }
 // console.log("The sum is",sum);
-
-let sub=0;
-for(i=1;i=>10;i--){
-    console.log(sub=i-sub);
-}
-console.log("sub is",sub)
