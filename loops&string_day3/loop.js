@@ -81,6 +81,6 @@
     
 //     console.log("The number is correct",usernum);
 // }
-let str=prompt("enter your full name ");
-let at="@"+str+str.length;
-console.log(at.trim())
+// let str=prompt("enter your full name ");
+// let at="@"+str+str.length;
+// console.log(at.trim())
