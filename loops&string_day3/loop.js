@@ -84,3 +84,11 @@
 // let str=prompt("enter your full name ");
 // let at="@"+str+str.length;
 // console.log(at.trim())
+// re study
+
+// let sum = 0;
+// for (let i = 1; i <= 5; i++) {
+//     sum = sum + i;
+// }
+// console.log("sum is :", sum);
+
